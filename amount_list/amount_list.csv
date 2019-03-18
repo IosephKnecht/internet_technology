@@ -1,0 +1,4 @@
+id,name,lastname,secondname,born_year,amount,locale,sum
+3,Jesus,Christ,,0000,15000,de-ch,15000
+1,Alexander,Mezentesev,Andreevich,1997,5000,en-au,20000
+2,Alexander,Popov,Mihaylovich,1998,1000,mk,21000
